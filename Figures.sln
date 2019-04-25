@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresClient", "FiguresCli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures.Tests", "Figures.Tests\Figures.Tests.csproj", "{79B3EA6D-E5F6-44EC-8E1B-12FA1224A405}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{A2B4735C-3CA8-44B2-B29D-F15803027B1D}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Обучение\Web\SQL\FillDB.sql = D:\Обучение\Web\SQL\FillDB.sql
+		D:\Обучение\Web\SQL\Query.sql = D:\Обучение\Web\SQL\Query.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
