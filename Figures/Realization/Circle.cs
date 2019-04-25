@@ -13,7 +13,7 @@ namespace Figures
             }
             private set
             {
-                if (value <= 0) throw new ArgumentOutOfRangeException("Negative radius");
+                if (value <= 0) throw new ArgumentOutOfRangeException("Negative or zero radius!");
                 _radius = value;
             }
         }
