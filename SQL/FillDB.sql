@@ -23,7 +23,7 @@ INSERT INTO Products
 VALUES ('Core 2 Duo'), ('i5-3210'), ('Ryzen'), ('GeForce GT1080')
 
 INSERT INTO Categories 
-VALUES ('Процессор'), ('Intel'), ('AMD')
+VALUES ('Processor'), ('Intel'), ('AMD')
 
 INSERT INTO ProductCategory
 VALUES (1,1), (1,2), (2,1), (2,2), (3,1), (3,3)
